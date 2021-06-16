@@ -16,3 +16,5 @@ Left click to destroy block
 
 470 mb
 
+# [Download BloMad](https://kavinjindal.itch.io/blomad-v1)
+
